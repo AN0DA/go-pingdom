@@ -3,3 +3,7 @@ vendor
 \.idea/
 
 examples/example-users
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/go-pingdom/v16/.suo
