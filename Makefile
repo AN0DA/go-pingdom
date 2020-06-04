@@ -13,7 +13,7 @@ test:
 	go test github.com/AN0DA/go-pingdom/pingdom
 
 acceptance:
-	PINGDOM_ACCEPTANCE=1 go test github.com/AN0DAo/go-pingdom/acceptance
+	PINGDOM_ACCEPTANCE=1 go test github.com/AN0DA/go-pingdom/acceptance
 
 cov:
 	go test github.com/AN0DA/go-pingdom/pingdom -coverprofile=coverage.out
