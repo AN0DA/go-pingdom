@@ -1,4 +1,4 @@
-ackage pingdom
+package pingdom
 
 import (
 	"encoding/json"
